@@ -1,0 +1,16 @@
+.banner {
+	height: 35vh;
+	background-image: linear-gradient(
+			to right,
+			rgba(54, 123, 214, 0.794),
+			rgba(53, 171, 201, 0.794),
+			rgba(32, 155, 212, 0.794)
+		),
+		url("../../assets/images/mountain.jpg");
+	background-position: center;
+}
+
+.banner-img {
+	height: 100%;
+	width: 100%;
+}
